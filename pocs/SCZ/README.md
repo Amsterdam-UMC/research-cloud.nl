@@ -1,4 +1,5 @@
-legacy SCZ Proof of Concept implementation A.H.Ullings 2018/2019
+# legacy SCZ Proof of Concept implementation
+A.H.Ullings 2018/2019
 - Azure these days contains intrinsic Azure AD domain join automation
 - The automation should be controlled by some form of Azure Custom Script Extension, Azure cloud-init scripting and/or by CloudBolt tooling/integrations itself
 - The automation could be part of the (Linux) VM (post)processing  Ansible, Puppet, Chef, Azure cloud-init scripting or equivalent
